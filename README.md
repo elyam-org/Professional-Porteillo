@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm **[ELYAM]**  
 
 🚀 **Full-Stack Developer | Serial Entrepreneur | Team Director**  
-💻 Building **beautiful, functional, and scalable** digital experiences.  
+💻 Building **beautiful, functional,and scalable** digital experiences.  
 🌍 Founder & Owner of **7+ businesses** across different industries.  
 🤝 Leading a **creative team of professionals** delivering high-end solutions.  
 
